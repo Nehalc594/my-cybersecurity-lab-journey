@@ -1,6 +1,6 @@
-# TryHackMe – Cyber Security 101 (Documented Learning Portfolio)
+# Cyber Security (Documented Learning Portfolio)
 
-This repository documents my completion of the **TryHackMe Cyber Security 101 learning path**.  
+This repository documents my completion of the **Cyber Security basic fundamentals**.  
 It is structured as a **clean, concept-focused portfolio** that demonstrates foundational cybersecurity knowledge, security thinking, and professional discipline.
 
 > This repository intentionally avoids exploit code, payloads, or step-by-step attack instructions.  
